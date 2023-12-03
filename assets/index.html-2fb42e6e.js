@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3f8dd7a0","path":"/tag/clash/","title":"标签: Clash","lang":"zh-CN","frontmatter":{"title":"标签: Clash","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"Clash","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
